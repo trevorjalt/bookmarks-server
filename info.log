@@ -1,0 +1,23 @@
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Card with id 01bc838a-a56f-4760-af48-57423da08843 created","level":"info"}
+{"message":"Card with id eba1e8d2-d2a8-45fb-a0ab-98034011f79d created","level":"info"}
+{"message":"Bookmark with id 1f2ff9d9-d1ef-41bd-a83f-2c91d4fe9251 created","level":"info"}
+{"message":"Invalid rating '6' supplied","level":"error"}
+{"message":"Invalid rating 'a' supplied","level":"error"}
+{"message":"Invalid rating '-1' supplied","level":"error"}
+{"message":"Invalid rating '5' supplied","level":"error"}
+{"message":"Invalid rating '5' supplied","level":"error"}
+{"message":"Invalid rating '5' supplied","level":"error"}
+{"message":"Bookmark with id a4d5ae46-7e15-41ef-ba78-da263713f15f created","level":"info"}
+{"message":"Bookmark with id aaf0c5e7-4697-460f-9be9-274f9475adb0 created","level":"info"}
+{"message":"Invalid url 'www.apple.com' supplied","level":"error"}
+{"message":"Bookmark with id ad66e571-c09d-49c5-88bb-e5d611570c4a created","level":"info"}
+{"message":"Bookmark with id 7f0910dd-4e98-4212-843e-7a4616b4757a created","level":"info"}
+{"message":"Bookmark with id c5b6240a-69a4-4605-bc97-605061964729 created","level":"info"}
+{"message":"Bookmark with id c5b6240a-69a4-4605-bc97-605061964729 not found ","level":"error"}
+{"message":"Bookmark with id b4ec5cdb-bb84-4f63-ab43-cec943f98d30 created","level":"info"}
+{"message":"Bookmark with id ab5b3c54-7576-4163-ab99-93e732a38cef created","level":"info"}
+{"message":"Bookmark with id ab5b3c54-7576-4163-ab99-93e732a38cef deleted","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
